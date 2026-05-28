@@ -87,7 +87,7 @@ campaigns (1) ──→ (N) ads (1) ──→ (N) ad_events (N) ←── (1) us
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](img/dashboard.png)
 
 ---
 
